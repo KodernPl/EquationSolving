@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 #  Solver linear equations using determinants
 #    Ax+By=C 
 #    Dx+Ey=F 
